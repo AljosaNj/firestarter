@@ -1,0 +1,147 @@
+[
+  {
+    "name": "accent chair",
+    "price": 25,
+    "company": "marcos",
+       "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. ",
+    "rating": 4,
+    "image": ["pro3.jpg"]
+  },
+  {
+    "name": "albany sectional",
+    "price": 109,
+       "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund.",
+    "company": "liddy",
+    "rating": 5,
+    "image": ["pro3.jpg"]
+  },
+  {
+    "name": "albany table",
+    "price": 309,
+       "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund.",
+    "company": "liddy",
+    "rating": 4.9,
+    "image": ["pro2.jpg"]
+  },
+  {
+    "name": "armchair",
+    "price": 125,
+       "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund.",
+    "company": "marcos",
+    "rating": 4.8,
+    "image": ["pro1.jpg"]
+  },
+  {
+    "name": "bar stool",
+    "price": 40,
+    "company": "liddy",
+    "rating": 4.6,
+    "image": ["hero33.jpg"]
+  },
+  {
+    "name": "dining table",
+    "price": 42,
+    "company": "ikea",
+    "rating": 4.55,
+    "image": ["hero22.jpg"]
+  },
+  {
+    "name": "emperor bed",
+
+    "price": 23,
+       "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. ",
+    "company": "ikea",
+    "image": ["hero21.jpg"]
+  },
+  {
+    "name": "entertainment center",
+    "price": 59,
+    "featured": true,
+    "company": "caressa",
+    "image": ["cover55.jpg"]
+  },
+  {
+    "name": "high-back bench",
+    "price": 39,
+    "featured": true,
+    "company": "ikea",
+    "image": ["cover44.jpg"]
+  },
+
+  {
+    "name": "leather sofa",
+    "price": 99,
+    "company": "caressa",
+    "image": ["cover33.jpg"]
+  },
+  {
+    "name": "modern bookshelf",
+    "price": 31,
+    "featured": true,
+    "company": "caressa"
+  },
+  {
+    "name": "modern poster",
+    "price": 30,
+    "company": "liddy"
+  },
+  {
+    "name": "shelf",
+    "price": 30,
+    "company": "ikea"
+  },
+  {
+    "name": "simple chair",
+    "price": 109,
+    "company": "liddy"
+  },
+  {
+    "name": "sofa set",
+    "price": 129,
+    "company": "marcos"
+  },
+  {
+    "name": "suede armchair",
+    "price": 15,
+    "company": "caressa"
+  },
+  {
+    "name": "utopia sofa",
+    "price": 79,
+    "featured": true,
+    "company": "liddy"
+  },
+  {
+    "name": "vase table",
+    "price": 120,
+    "featured": true,
+    "company": "marcos"
+  },
+  {
+    "name": "wooden bed",
+    "price": 25,
+    "company": "ikea"
+  },
+  {
+    "name": "wooden desk",
+    "price": 15,
+    "company": "ikea"
+  },
+  {
+    "name": "wooden desk",
+    "price": 40,
+    "company": "ikea"
+  },
+  {
+    "name": "wooden table",
+    "price": 23,
+    "featured": true,
+    "company": "caressa"
+  },
+  {
+    "name": "a first wooden table",
+    "price": 23,
+    "featured": true,
+    "company": "caressa"
+  }
+]
